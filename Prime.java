@@ -24,3 +24,4 @@ public class Prime{
                             System.out.print(i + " ");
             }
     }
+}

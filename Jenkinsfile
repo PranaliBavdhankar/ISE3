@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "pranalibavdhankar/demoimage"
+    registry = "pranalibavdhankar/primeimage"
     registryCredential = "dockerid"
     dockerImage = ""
   }
